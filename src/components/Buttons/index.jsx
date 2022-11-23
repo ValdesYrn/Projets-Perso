@@ -30,7 +30,7 @@ export const BtnJenProfit = (
   <div className="" style={{ fontFamily: 'Century Gothic' }}>
     <div className=" justify-content-center d-flex">
       <a
-        href="mailto:p.monferrersilvestrevincente@gmail.com?subject=Prise%20d'information%20sur%20vos%20différentes%20formations&cc=monferrersilvestrevincente@gmail.com&body=Bonjour%20.%20Je%20intéressé%20par%20vos%20fomartions.%20Pouvez-vous%20m'en%20dire%20plus.?"
+        href="mailto:monferrersilvestrevincente@gmail.com?subject=Prise%20d'information%20sur%20vos%20offres&cc=monferrersilvestrevincente@gmail.com&body=Bonjour%20.%20J'aimerais%20faire%20une%20demande%20de%20prêt.J'aimerais%20faire%20une%20demande%20de%20..."
         className="text-center btn fs-4 px-5 pb-2 d-md-block d-none"
         style={{ backgroundColor: Colors.jenprofite }}
       >
@@ -43,7 +43,7 @@ export const BtnJenProfit = (
       style={{ backgroundColor: Colors.jenprofite, fontSize: '1.5em' }}
     >
       <a
-        href="mailto:p.monferrersilvestrevincente@gmail.com?subject=Prise%20d'information%20sur%20vos%20différentes%20formations&cc=monferrersilvestrevincente@gmail.com&body=Bonjour%20.%20Je%20intéressé%20par%20vos%20fomartions.%20Pouvez-vous%20m'en%20dire%20plus.?"
+        href="mailto:monferrersilvestrevincente@gmail.com?subject=Prise%20d'information%20sur%20vos%20offres&cc=monferrersilvestrevincente@gmail.com&body=Bonjour%20.%20J'aimerais%20faire%20une%20demande%20de%20prêt.J'aimerais%20faire%20une%20demande%20de%20..."
         className="text-center btn fs-2   animate__shakeX animate__animated py-2"
       >
         Faire ma demande
