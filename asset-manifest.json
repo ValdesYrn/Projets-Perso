@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Projets-Perso/static/js/main.75ab9579.js",
+    "main.js": "/Projets-Perso/static/js/main.b1412832.js",
     "static/media/LoanPro.jpg": "/Projets-Perso/static/media/LoanPro.9b67e89c62fb0d1a2852.jpg",
     "static/media/LoanExpress.jpg": "/Projets-Perso/static/media/LoanExpress.7c5796be85704c64b48d.jpg",
     "static/media/franfinance.png": "/Projets-Perso/static/media/franfinance.155412d0ec552f1065c7.png",
@@ -15,9 +15,9 @@
     "static/media/running.png": "/Projets-Perso/static/media/running.f5415c36a5da0097e4eb.png",
     "static/media/Logo1.png": "/Projets-Perso/static/media/Logo1.a921b1c829ef5e4d7dcf.png",
     "index.html": "/Projets-Perso/index.html",
-    "main.75ab9579.js.map": "/Projets-Perso/static/js/main.75ab9579.js.map"
+    "main.b1412832.js.map": "/Projets-Perso/static/js/main.b1412832.js.map"
   },
   "entrypoints": [
-    "static/js/main.75ab9579.js"
+    "static/js/main.b1412832.js"
   ]
 }
