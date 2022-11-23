@@ -98,7 +98,7 @@ function CreditPro() {
                       <span className="d-none d-lg-block">
                         situé sur votre droite.
                       </span>
-                      <span className="d-none d-sm-block d-lg-none">
+                      <span className="d-block d-lg-none">
                         situé un peu plus bas.
                       </span>
                     </p>
